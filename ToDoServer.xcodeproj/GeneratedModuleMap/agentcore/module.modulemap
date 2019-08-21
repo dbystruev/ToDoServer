@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.21 To Do List Kitura/ToDoServer/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}
