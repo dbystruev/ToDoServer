@@ -1,3 +1,5 @@
+import SwiftKueryORM
+
 public struct ToDo: Codable {
     public var id: Int?
     public var user: String?
@@ -17,3 +19,5 @@ extension ToDo: Equatable {
             lhs.id == rhs.id
     }
 }
+
+extension ToDo: Model {}
