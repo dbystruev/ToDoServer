@@ -1,6 +1,6 @@
-## Scaffolded Swift Kitura server application
+## ToDoBackend Swift Kitura server application
 
-This scaffolded application provides a starting point for creating Swift applications running on [Kitura](http://www.kitura.io/).
+This is an example of Swift Kitura backend for [ToDo Client](https://todobackend.com/client/).
 
 ### Table of Contents
 * [Requirements](#requirements)
@@ -24,8 +24,14 @@ This application has been generated with the following capabilities and services
 
 ### Requirements
 * [Swift 4](https://swift.org/download/)
+* [PostgreSQL](https://www.postgresql.org/download/) for the database
 
 ### Run
+To run the database on macOS:
+1. `brew install postgresql` # install PostgreSQL on localhost
+1. `brew services start postgresql` # start PostgreSQL on localhost
+1. `createdb tododb` # create a new PostgreSQL database for the project called tododb
+
 To build and run the application:
 1. `swift build`
 1. `.build/debug/ToDoServer`
