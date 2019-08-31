@@ -39,3 +39,8 @@ spec:
             value : "{{ .Values.service.servicePort }}"
           - name: APPLICATION_NAME
             value: "{{ .Release.Name }}"
+          - name: DBPASSWORD
+            valueFrom:
+              secretKeyRef:
+                  name: "{{ .Values.secretsConfig }}"
+                  key: postgres-password

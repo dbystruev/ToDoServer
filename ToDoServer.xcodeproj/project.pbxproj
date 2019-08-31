@@ -849,7 +849,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Health/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Health/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_1040" = {
@@ -1476,7 +1476,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Kitura-OpenAPI/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Kitura-OpenAPI/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_1100" = {
@@ -3234,7 +3234,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/SwiftMetrics/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/SwiftMetrics/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_1300" = {
@@ -6178,7 +6178,7 @@
       "OBJ_167" = {
          isa = "PBXFileReference";
          name = "module.modulemap";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/ToDoServer.xcodeproj/GeneratedModuleMap/agentcore/module.modulemap";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/ToDoServer.xcodeproj/GeneratedModuleMap/agentcore/module.modulemap";
          sourceTree = "<group>";
       };
       "OBJ_1670" = {
@@ -7376,7 +7376,7 @@
       "OBJ_180" = {
          isa = "PBXFileReference";
          name = "module.modulemap";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/ToDoServer.xcodeproj/GeneratedModuleMap/hcapiplugin/module.modulemap";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/ToDoServer.xcodeproj/GeneratedModuleMap/hcapiplugin/module.modulemap";
          sourceTree = "<group>";
       };
       "OBJ_181" = {
@@ -7412,7 +7412,7 @@
       "OBJ_185" = {
          isa = "PBXFileReference";
          name = "module.modulemap";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/ToDoServer.xcodeproj/GeneratedModuleMap/memplugin/module.modulemap";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/ToDoServer.xcodeproj/GeneratedModuleMap/memplugin/module.modulemap";
          sourceTree = "<group>";
       };
       "OBJ_186" = {
@@ -7435,7 +7435,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/omr-agentcore/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/omr-agentcore/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_189" = {
@@ -7543,7 +7543,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Kitura-WebSocket/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Kitura-WebSocket/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_202" = {
@@ -7666,7 +7666,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/BlueCryptor/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/BlueCryptor/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_216" = {
@@ -7818,7 +7818,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/CloudEnvironment/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/CloudEnvironment/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_237" = {
@@ -7893,7 +7893,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Swift-cfenv/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Swift-cfenv/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_246" = {
@@ -7962,7 +7962,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Configuration/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Configuration/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_255" = {
@@ -7993,7 +7993,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/FileKit/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/FileKit/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_259" = {
@@ -8041,7 +8041,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/HeliumLogger/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/HeliumLogger/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_265" = {
@@ -8390,7 +8390,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Swift-Kuery-PostgreSQL/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Swift-Kuery-PostgreSQL/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_310" = {
@@ -8483,7 +8483,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Kitura/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Kitura/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_323" = {
@@ -8520,7 +8520,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/TypeDecoder/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/TypeDecoder/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_328" = {
@@ -8627,7 +8627,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/KituraContracts/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/KituraContracts/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_341" = {
@@ -8658,7 +8658,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Kitura-TemplateEngine/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Kitura-TemplateEngine/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_345" = {
@@ -9017,7 +9017,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Kitura-net/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Kitura-net/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_396" = {
@@ -9091,14 +9091,14 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Swift-Kuery-ORM/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Swift-Kuery-ORM/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_400" = {
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/BlueSSLService/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/BlueSSLService/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_401" = {
@@ -9141,7 +9141,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/BlueSocket/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/BlueSocket/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_407" = {
@@ -9182,7 +9182,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/LoggerAPI/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/LoggerAPI/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_411" = {
@@ -9225,50 +9225,50 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/swift-log/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/swift-log/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_417" = {
          isa = "PBXGroup";
          children = (
-            "SwiftMetrics::SwiftMetricsREST::Product",
-            "SwiftKueryORM::SwiftKueryORM::Product",
-            "SSLService::SSLService::Product",
-            "Socket::Socket::Product",
-            "LoggerAPI::LoggerAPI::Product",
-            "Kitura-TemplateEngine::KituraTemplateEngine::Product",
-            "Kitura::Kitura::Product",
-            "omr-agentcore::agentcore::Product",
-            "KituraContracts::KituraContracts::Product",
-            "HeliumLogger::HeliumLogger::Product",
-            "SwiftKueryPostgreSQL::SwiftKueryPostgreSQL::Product",
-            "ToDoServer::ToDoServer::Product",
-            "swift-log::Logging::Product",
             "SwiftMetrics::SwiftMetrics::Product",
-            "omr-agentcore::hcapiplugin::Product",
-            "CloudEnvironment::CloudEnvironment::Product",
-            "Kitura-net::KituraNet::Product",
-            "SwiftMetrics::SwiftMetricsBluemix::Product",
-            "CloudFoundryEnv::CloudFoundryEnv::Product",
-            "Configuration::Configuration::Product",
-            "Health::Health::Product",
-            "SwiftMetrics::SwiftMetricsPrometheus::Product",
-            "KituraOpenAPI::KituraOpenAPI::Product",
             "omr-agentcore::envplugin::Product",
-            "ToDoServer::Application::Product",
-            "omr-agentcore::memplugin::Product",
-            "SwiftMetrics::SwiftMetricsDash::Product",
-            "SwiftKuery::SwiftKuery::Product",
-            "FileKit::FileKit::Product",
             "SwiftMetrics::SwiftMetricsKitura::Product",
-            "TypeDecoder::TypeDecoder::Product",
+            "Kitura-TemplateEngine::KituraTemplateEngine::Product",
             "SwiftMetrics::SwiftBAMDC::Product",
             "Cryptor::Cryptor::Product",
-            "Kitura-WebSocket::KituraWebSocket::Product",
+            "SwiftKuery::SwiftKuery::Product",
+            "FileKit::FileKit::Product",
             "Kitura-net::CHTTPParser::Product",
+            "SwiftMetrics::SwiftMetricsPrometheus::Product",
+            "Configuration::Configuration::Product",
+            "TypeDecoder::TypeDecoder::Product",
+            "KituraOpenAPI::KituraOpenAPI::Product",
             "KituraCORS::KituraCORS::Product",
+            "ToDoServer::Application::Product",
+            "omr-agentcore::hcapiplugin::Product",
+            "omr-agentcore::cpuplugin::Product",
+            "ToDoServer::ToDoServer::Product",
+            "Health::Health::Product",
+            "omr-agentcore::memplugin::Product",
+            "CloudFoundryEnv::CloudFoundryEnv::Product",
+            "omr-agentcore::agentcore::Product",
+            "KituraContracts::KituraContracts::Product",
+            "LoggerAPI::LoggerAPI::Product",
+            "SwiftMetrics::SwiftMetricsBluemix::Product",
+            "SwiftMetrics::SwiftMetricsDash::Product",
+            "Kitura-WebSocket::KituraWebSocket::Product",
+            "HeliumLogger::HeliumLogger::Product",
             "ToDoServer::ApplicationTests::Product",
-            "omr-agentcore::cpuplugin::Product"
+            "SwiftKueryORM::SwiftKueryORM::Product",
+            "SSLService::SSLService::Product",
+            "SwiftMetrics::SwiftMetricsREST::Product",
+            "Kitura::Kitura::Product",
+            "Kitura-net::KituraNet::Product",
+            "SwiftKueryPostgreSQL::SwiftKueryPostgreSQL::Product",
+            "swift-log::Logging::Product",
+            "CloudEnvironment::CloudEnvironment::Product",
+            "Socket::Socket::Product"
          );
          name = "Products";
          path = "";
@@ -12811,7 +12811,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Swift-Kuery/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Swift-Kuery/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_920" = {
@@ -13381,7 +13381,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.28ToDoServerKitura/ToDoServer/.build/checkouts/Kitura-CORS/Package.swift";
+         path = "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.08.31ToDoServerKitura/ToDoServer-2019.08/.build/checkouts/Kitura-CORS/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_980" = {
